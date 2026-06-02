@@ -1,0 +1,10 @@
+{
+  "app": { "name": "فايب", "tagline": "تواصل، شارك، عش" },
+  "nav": { "home": "الرئيسية", "explore": "استكشاف", "reels": "ريلز", "groups": "المجموعات", "marketplace": "السوق", "messages": "الرسائل", "saved": "المحفوظات", "settings": "الإعدادات", "profile": "الملف الشخصي", "logout": "تسجيل الخروج" },
+  "auth": { "login": "تسجيل الدخول", "register": "إنشاء حساب", "email": "البريد الإلكتروني", "phone": "الهاتف", "username": "اسم المستخدم", "password": "كلمة المرور", "firstName": "الاسم الأول", "lastName": "الاسم الأخير", "forgotPassword": "نسيت كلمة المرور؟", "rememberMe": "تذكرني", "noAccount": "ليس لديك حساب؟", "hasAccount": "لديك حساب بالفعل؟", "createAccount": "إنشاء حساب", "loginButton": "تسجيل الدخول", "registerButton": "إنشاء حساب", "resetPassword": "إعادة تعيين كلمة المرور", "sendReset": "إرسال رابط التعيين", "checkEmail": "تحقق من بريدك الإلكتروني", "termsAgree": "أوافق على الشروط وسياسة الخصوصية" },
+  "feed": { "createPost": "بماذا تفكر؟", "post": "نشر", "photo": "صورة", "video": "فيديو", "feeling": "شعور", "location": "موقع", "tagFriends": "إشارة لأصدقاء", "audience": "الجمهور", "public": "عام", "friends": "الأصدقاء", "onlyMe": "أنا فقط", "noPosts": "لا توجد منشورات", "noPostsDesc": "تابع أشخاصاً لترى منشوراتهم", "findPeople": "ابحث عن أشخاص" },
+  "post": { "like": "إعجاب", "comment": "تعليق", "share": "مشاركة", "save": "حفظ", "report": "إبلاغ", "edit": "تعديل", "delete": "حذف", "edited": "معدل", "viewMore": "عرض المزيد", "writeComment": "اكتب تعليقاً...", "reply": "رد" },
+  "stories": { "yourStory": "قصتك", "addStory": "إضافة قصة", "viewers": "مشاهد", "noStories": "لا توجد قصص" },
+  "chat": { "messages": "الرسائل", "typeMessage": "اكتب رسالة...", "online": "متصل", "offline": "غير متصل", "typing": "يكتب...", "noMessages": "لا توجد رسائل" },
+  "common": { "cancel": "إلغاء", "confirm": "تأكيد", "save": "حفظ", "delete": "حذف", "edit": "تعديل", "close": "إغلاق", "back": "رجوع", "search": "بحث", "loading": "جاري التحميل...", "error": "حدث خطأ ما", "retry": "إعادة المحاولة", "noResults": "لا توجد نتائج" }
+}

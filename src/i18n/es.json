@@ -1,0 +1,8 @@
+{
+  "app": { "name": "Vibe", "tagline": "Conecta, Comparte, Vive" },
+  "nav": { "home": "Inicio", "explore": "Explorar", "reels": "Reels", "groups": "Grupos", "marketplace": "Mercado", "messages": "Mensajes", "saved": "Guardados", "settings": "Ajustes", "profile": "Perfil", "logout": "Cerrar sesión" },
+  "auth": { "login": "Iniciar sesión", "register": "Registrarse", "email": "Correo", "phone": "Teléfono", "username": "Usuario", "password": "Contraseña", "firstName": "Nombre", "lastName": "Apellido", "forgotPassword": "¿Olvidaste tu contraseña?", "rememberMe": "Recordarme", "noAccount": "¿No tienes cuenta?", "hasAccount": "¿Ya tienes cuenta?", "createAccount": "Crear cuenta", "loginButton": "Entrar", "registerButton": "Registrarse" },
+  "feed": { "createPost": "¿Qué estás pensando?", "post": "Publicar", "photo": "Foto", "video": "Video", "feeling": "Sentimiento", "location": "Ubicación", "public": "Público", "friends": "Amigos", "onlyMe": "Solo yo", "noPosts": "Sin publicaciones" },
+  "post": { "like": "Me gusta", "comment": "Comentar", "share": "Compartir", "save": "Guardar", "report": "Reportar", "edit": "Editar", "delete": "Eliminar", "edited": "Editado" },
+  "common": { "cancel": "Cancelar", "confirm": "Confirmar", "save": "Guardar", "delete": "Eliminar", "close": "Cerrar", "back": "Volver", "search": "Buscar", "loading": "Cargando...", "error": "Error", "retry": "Reintentar", "noResults": "Sin resultados" }
+}
